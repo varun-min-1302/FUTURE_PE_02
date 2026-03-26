@@ -162,7 +162,7 @@ It reduces content creation time while maintaining quality and consistency.
 
 ## 👨‍💻 Author
 
-**Varun**  
+**Samudrawad Varun**  
 Prompt Engineering Intern — Future Interns (2026)
 
 ---
